@@ -4,6 +4,7 @@
     <a href='https://coveralls.io/r/devpadawan/becoming-jedi-katas'>
       <img src='https://coveralls.io/repos/devpadawan/becoming-jedi-katas/badge.svg' alt='Coverage Status' />
     </a>
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" />
 </h2>
 <h2> A group of code katas from different sources </h2>
 
