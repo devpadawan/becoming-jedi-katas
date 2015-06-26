@@ -1,5 +1,5 @@
 <h1> Becoming Jedi with code katas 
-[![Build Status](https://travis-ci.org/devpadawan/becoming-jedi-katas.png?branch=master)](https://travis-ci.org/devpadawan/becoming-jedi-katas)
+<img src="https://travis-ci.org/devpadawan/becoming-jedi-katas.svg?branch=master" />
 </h1>
 <h2> A group of code katas from different sources </h2>
 
