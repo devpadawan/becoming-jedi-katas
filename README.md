@@ -14,3 +14,10 @@
   <li> http://www.codingdojo.org/</li>
   <li> https://projecteuler.net/ </li>
 </lu>
+
+License
+-------
+
+Copyright (c) 2015 Josimar Silva, devpadawan.com
+
+Published under MIT License, see LICENSE
