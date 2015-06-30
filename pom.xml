@@ -26,6 +26,7 @@
 		<module>coding-dojo</module>
 		<module>katas-software-craftsmanship</module>
 		<module>project-euler</module>
+		<module>codewars</module>
 	</modules>
 
 	<dependencies>

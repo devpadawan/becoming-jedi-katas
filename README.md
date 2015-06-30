@@ -13,4 +13,13 @@
   <li>http://katas.softwarecraftsmanship.org</li>
   <li> http://www.codingdojo.org/</li>
   <li> https://projecteuler.net/ </li>
+  <li> http://www.codewars.com/ </li>
+  <li> https://www.codingame.com </li>
 </lu>
+
+License
+-------
+
+Copyright (c) 2015 Josimar Silva, devpadawan.com
+
+Published under MIT License, see LICENSE
