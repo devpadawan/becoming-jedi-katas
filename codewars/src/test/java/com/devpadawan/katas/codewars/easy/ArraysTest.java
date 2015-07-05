@@ -54,6 +54,7 @@ public class ArraysTest {
 
 	@Test
 	public void muchReturnTheSmallestValue() {
+		
 		//given 
 		int[] numbers = new int[] { 7, 12, 3, 2, 27 };
 				

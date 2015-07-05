@@ -1,8 +1,8 @@
 package com.devpadawan.katas.codewars.easy;
 
 import static java.util.Arrays.stream;
+
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
 
 /*
@@ -44,6 +44,19 @@ import java.util.List;
  * 
  */
 public final class Arrays {
+	
+	/**
+	 * 
+	 */
+	Arrays() {
+	}
+	
+	/**
+	 * @return
+	 */
+	public static Arrays newInstance() {
+		return new Arrays();
+	}
 
 	/**
 	 * @param numbers
@@ -55,22 +68,6 @@ public final class Arrays {
 		final int smallestValue = stream(numbers).min().getAsInt();
 
 		return toReturn.equals("value") ? smallestValue : toArray(numbers).indexOf(smallestValue);
-	}
-
-	/** 
-	 * 
-	 * @param numbers to search
-	 * @return the smallest value in the array
-	 * 
-	 * @deprecated
-	 */
-	@Deprecated
-	@SuppressWarnings(value = {"unsed"})
-	private static int findSmallestValueIn(final List<Integer> numbers) {
-	    return numbers.stream() 
-	    		.min(Comparator.comparing(number -> number.intValue()))
-	    		.get();	 
-
 	}
 
 	/**
