@@ -10,11 +10,12 @@
 
 <p> Here some fonts that I used to find some code katas to do: </p>
 <lu>
-  <li>http://katas.softwarecraftsmanship.org</li>
+  <li> http://katas.softwarecraftsmanship.org </li>
   <li> http://www.codingdojo.org/</li>
   <li> https://projecteuler.net/ </li>
   <li> http://www.codewars.com/ </li>
   <li> https://www.codingame.com </li>
+  <li> https://www.hackerrank.com </li>
 </lu>
 
 License
