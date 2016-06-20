@@ -16,6 +16,7 @@
   <li> http://www.codewars.com/ </li>
   <li> https://www.codingame.com </li>
   <li> https://www.hackerrank.com </li>
+  <li> http://codekata.com/ </li>
 </lu>
 
 License
